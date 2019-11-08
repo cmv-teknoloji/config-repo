@@ -1,1 +1,4 @@
-deneme:testscheduler
+CLOUDKARAFKA_BROKERS:ark-01.srvs.cloudkafka.com:9094,ark-02.srvs.cloudkafka.com:9094,ark-03.srvs.cloudkafka.com:9094
+CLOUDKARAFKA_USERNAME:wvqtoz80
+CLOUDKARAFKA_PASSWORD:zuLx88JuNajuVpBcz-XeIe9KqtrSZ7gb
+CLOUDKARAFKA_TOPIC_PREFIX:wvqtoz80-
