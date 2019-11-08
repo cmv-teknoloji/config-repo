@@ -1,0 +1,3 @@
+cargo:
+  wsdls:
+    yurtici: www.yurtici.com/service?WSDl
